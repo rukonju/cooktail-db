@@ -1,0 +1,27 @@
+
+.btn{
+    margin-bottom: 10px;
+}
+div button{
+    padding: 5px 30px;
+    background-color: rgb(2, 143, 21);
+    border: 3px solid rgba(255, 123, 0, 0);
+    border-radius: 50px;
+    color: rgb(228, 228, 228);
+    font-size: 16px;
+    font-weight: 500px;
+}
+div button:hover{
+    border: 3px solid rgb(2, 143, 21) ;
+    background-color: rgb(2, 143, 21, 0.7);
+}
+.drink-img img{
+    width: 100%;
+    border-top-left-radius:5px ;
+    border-top-right-radius:5px ;
+}
+.drink{
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+}
